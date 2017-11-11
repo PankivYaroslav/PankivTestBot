@@ -1,0 +1,45 @@
+D:\Progs\PankivTestBot\PankivTestBot\bin\Bot Application.dll.config
+D:\Progs\PankivTestBot\PankivTestBot\bin\Bot Application.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Bot Application.pdb
+D:\Progs\PankivTestBot\PankivTestBot\bin\Autofac.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Chronic.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Builder.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Connector.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Newtonsoft.Json.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Net.Http.Formatting.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Web.Http.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Web.Http.WebHost.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\Autofac.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Builder.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Bot.Connector.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\Newtonsoft.Json.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Net.Http.Formatting.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Web.Http.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\System.Web.Http.WebHost.xml
+D:\Progs\PankivTestBot\PankivTestBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Progs\PankivTestBot\PankivTestBot\obj\Debug\PankivTestBot.csprojResolveAssemblyReference.cache
+D:\Progs\PankivTestBot\PankivTestBot\obj\Debug\PankivTestBot.csproj.CoreCompileInputs.cache
+D:\Progs\PankivTestBot\PankivTestBot\obj\Debug\Bot Application.dll
+D:\Progs\PankivTestBot\PankivTestBot\obj\Debug\Bot Application.pdb
